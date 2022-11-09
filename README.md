@@ -11,7 +11,7 @@ A passionate full stack developer from 127.0.0.1
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sl5net)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seeh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sl5net)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 sl5net/sl5net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
