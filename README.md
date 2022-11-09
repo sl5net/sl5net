@@ -5,7 +5,7 @@ A passionate full stack developer from 127.0.0.1
 - 🔭 I’m currently working on [Commits list](https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:sl5net)
 - 🌱 I’m currently learning JS, Kotlin, Python, ReactJS, Spring Boot, ....
 - 👯 I’m looking to collaborate on [global-IntelliSense-everywhere using copyq_frontend](https://github.com/sl5net/global-IntelliSense-everywhere/tree/copyq_frontend)
-- 👀 I’m interested in to be contacted from a team player, creative, open-minded and communicative, for doing thing together. thats much mor fun.
+- 👀 I’m interested in to be contacted from a team player, creative, open-minded and communicative p., for doing thing together. thats much mor fun.
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sl5net)](https://github.com/ryo-ma/github-profile-trophy)
